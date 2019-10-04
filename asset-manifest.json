@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/concept-cartoons/static/css/main.20cdee51.chunk.css",
+    "main.js": "/concept-cartoons/static/js/main.608e98a3.chunk.js",
+    "main.js.map": "/concept-cartoons/static/js/main.608e98a3.chunk.js.map",
+    "runtime-main.js": "/concept-cartoons/static/js/runtime-main.3c602a46.js",
+    "runtime-main.js.map": "/concept-cartoons/static/js/runtime-main.3c602a46.js.map",
+    "static/js/2.c762ee2a.chunk.js": "/concept-cartoons/static/js/2.c762ee2a.chunk.js",
+    "static/js/2.c762ee2a.chunk.js.map": "/concept-cartoons/static/js/2.c762ee2a.chunk.js.map",
+    "index.html": "/concept-cartoons/index.html",
+    "precache-manifest.7fb9aa71269b0564615ce3c7807448a3.js": "/concept-cartoons/precache-manifest.7fb9aa71269b0564615ce3c7807448a3.js",
+    "service-worker.js": "/concept-cartoons/service-worker.js",
+    "static/css/main.20cdee51.chunk.css.map": "/concept-cartoons/static/css/main.20cdee51.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c602a46.js",
+    "static/js/2.c762ee2a.chunk.js",
+    "static/css/main.20cdee51.chunk.css",
+    "static/js/main.608e98a3.chunk.js"
+  ]
+}
