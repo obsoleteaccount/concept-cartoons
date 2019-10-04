@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react';//to understand jsx
+import ReactDOM from 'react-dom';//robot that interacts with the dom.replaceable e.g mobile phone, desktop
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
